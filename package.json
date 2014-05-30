@@ -17,9 +17,12 @@
     "url": "https://github.com/quandl/grunt-broccoli.git"
   },
   "dependencies": {
-    "grunt": "~0.4.2",
     "broccoli": "~0.12.0",
     "broccoli-kitchen-sink-helpers": "0.2.2",
+    "connect": "^2.15.0",
+    "connect-chain": "0.0.1",
+    "grunt": "~0.4.2",
+    "proxy-middleware": "^0.5.0",
     "rimraf": "~2.2.6"
   },
   "devDependencies": {
